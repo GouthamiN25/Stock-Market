@@ -1,8 +1,6 @@
 # **Stock Market Price Trend Analysis Using LLM and Visualization**
 
-
-Stock Market Price Trend Analysis 
-
+![stockmarket](https://github.com/user-attachments/assets/397f1935-81c4-4c3e-8862-6a352226e86e)
 
 **Introduction**
 
