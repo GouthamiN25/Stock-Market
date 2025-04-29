@@ -1,5 +1,9 @@
 # **Stock Market Price Trend Analysis Using LLM and Visualization**
 
+
+Stock Market Price Trend Analysis 
+
+
 **Introduction**
 
 This project performs exploratory analysis of stock, commodity, and cryptocurrency prices. It uses a lightweight Local Large Language Model (LLM) to automatically generate natural language summaries of price trends for each asset. It also visualizes historical price trends using Matplotlib and Seaborn.
